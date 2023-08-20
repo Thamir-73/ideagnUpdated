@@ -1,0 +1,4 @@
+[submodule "themes/afluidcopy"]
+	path = themes/afluidcopy
+	url = https://github.com/Thamir-73/hexo-theme-fluid-tt.git
+    branch = master

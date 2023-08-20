@@ -1,3 +1,4 @@
 [submodule "themes/afluidcopy"]
 	path = themes/afluidcopy
 	url = https://github.com/Thamir-73/liu.git
+        branch = main

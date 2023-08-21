@@ -1,4 +1,4 @@
 [submodule "themes/afluidcopy"]
 	path = themes/afluidcopy
-	url =  https://github.com/Thamir-73/hexo-theme-fluid-tt.git
-	path = master
+	url =  https://github.com/fluid-dev/hexo-theme-fluid
+	branch = develop

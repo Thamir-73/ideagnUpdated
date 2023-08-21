@@ -2,7 +2,7 @@
 title: "The underestimated Principle: A new way of thinking"
 date: 2023-05-01 
 categories: [Psychology/Self-reflection]
-index_img: source/img/llamy.gif
+index_img: /img/llamy.gif
 excerpt: "Topic Stamps;
  1) A new way of thinking?
  2) Example: The meaning of life.

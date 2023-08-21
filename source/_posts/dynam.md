@@ -2,7 +2,7 @@
 title: The dynamics between “Theoretical” & “experimental/practical” knowledge
 date: 2022-10-12 
 categories: [Extras/Questions]
-index_img: /igtfe.jpeg
+index_img: /img/igtfe.jpeg
 ---
 There are all sorts of difficulties, at least in my conceptualization, in rigorously dividing the two “aspects” of knowledge we mentioned in the question, because these two aspects of knowledge might be more intertwined than we think, but for the sake of understanding the world just a little bit more, let’s give it a try and separate them for now. 
 

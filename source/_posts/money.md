@@ -5,12 +5,7 @@ categories: [Economics]
 index_img: img/economyy.gif
 ---
 
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 
 ### Economics as a cycle:
 
@@ -122,3 +117,10 @@ When people have more printed money, the prices in an economy rises as a result 
 
 ### Reconstructing the pieces:
 By this time, you might have felt a bit confused by the discrepancy of the first part (economics as a cycle), and the second part about money, but I think we can kind of apply the same reasoning to money, as well. If we apply our thinking to money, we really see that money is just a commodity that shifts from being a commodity/good (one part of the cycle), for example gold in ancient times, to becoming a medium of exchange (another part of the cycle). If we see it that way, we can understand that the same laws that apply to all other goods in an economy, really applies to money itself, and we can , by extension, vividly see how our reasoning can apply.
+
+<style>
+  .markdown-body{
+  font-size: clamp(17.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

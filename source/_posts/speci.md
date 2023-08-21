@@ -11,12 +11,7 @@ excerpt: "Topic Stamps:
  5) Truth & specialisation
  ... "
 ---
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 
 There has probably been no better time than now, to discuss this topic of 
 
@@ -354,3 +349,10 @@ that I think portrays a lot of the diplomatic (and perhaps confusing) back and f
 for both specialization and generalization:
 
 “Specialize in skills, generalize in knowledge.”
+
+<style>
+  .markdown-body{
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

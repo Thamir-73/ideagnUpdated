@@ -4,12 +4,7 @@ date: 2022-07-5
 categories: [Extras/Questions]
 index_img: img/21e.png
 ---
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 This question keeps knocking at the door of reality in some sense, because in one way we perceive the world as a set of problems. It might seem like an obvious question, you have problems and solutions, 
 
 you untangle these two, and there you go you have the answer. But in order to get to the bottom of this question, we need to dig deeper to understand how these two concepts (problems/solutions) relate to reality. 
@@ -30,3 +25,10 @@ and is subject to change given information, and by way of that fact, we can’t 
 In some sense, our question today is meaningless to start with because we don’t seem to understand what’s the line that separates problems from solutions. It might be clear in using tools like mathematics, but in the real world, the line is blurred in some sense.
 
 But to conclude, one practical approach to life is to assume that every problem (meaning everything we perceive as a problem) at hand can be approached in one way that eventually will lead to a solution (whatever practical thing we mean by that word). It’s an assumption in science and every other human endeavour that is extremely useful to the way we approach the world.  
+
+<style>
+  .markdown-body{
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

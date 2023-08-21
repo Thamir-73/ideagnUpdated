@@ -10,12 +10,7 @@ excerpt: "Topic Stamps:
  4) Reconstructing the question.
  5) Meta-lesson/Conclusion."
 ---
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 This question of Whether technologies actually lead to progress is something that is often taken for granted or overlooked.
 
 As technologies are extremely close to us in everyday life, the answer to the question might seem super clear, but there are super interesting philosophic considerations that might give us deep insights on the topic as a whole, and our question, as well.
@@ -164,3 +159,10 @@ We saw that “progress” is really a deep concept that perhaps requires more t
 One thing we can extract from this is that, perhaps contrary to common belief, technologies are seldom “Black” or “White”, really (like a lot of other things).
 
 But in order to shift it towards the “Benign/good” side of things, we need to understand how it can give rise harmful consequences (sometimes as side-effects), and shift the approach to technologies to be more salutary, to the degree that that’s possible.
+
+<style>
+  .markdown-body{
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

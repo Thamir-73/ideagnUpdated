@@ -5,12 +5,7 @@ categories: [Philosophy]
 index_img: img/21e.png
 ---
 
-<style>
- .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 
 ## The purpose of Morality:
 You would think that we are just stating the trivially obvious here, but I think stating “the obvious” is always one of the best ways to understand a topic because “the obvious” is always, paradoxically enough, underestimated, and subconsciously brushed under the rug, so let’s start by exactly doing that. If we take a stroll down the purpose of morality, you would hear some people say that morality’s purpose is embedded in the idea in and of itself, but I think given today’s disputes/differences on morality, it has gone too far to refer to the “intuitive”, and for that we need to substantiate each claim to begin to agree on the premises or the conclusions we make. It’s fair to start-off with what I call the consequential purpose of morality, which is: 
@@ -82,3 +77,11 @@ To understand the model more, transgressing the “morality”, or an “immoral
 So we see that the better we optimize for the economy, as an example, the better off every individual will be, by way of creating jobs or anything of that sort. But if we contrast this example, to lack of division of labor, and every single individual optimizes for something without reference to the economy or the whole, we say that this will forgo benefits for all entities and things within that unit.
 
 That doesn’t just show us the importance in that specific economic domain, but it reminds us how the different parts of a system, are more or less, really part of the same dynamic of effects. 
+
+
+<style>
+  .markdown-body{
+  font-size: clamp(17.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

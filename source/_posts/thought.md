@@ -10,12 +10,7 @@ excerpt: "Topic Stamps:
  4) Limits to our approach?
  5) Bird's eye view/conclusion."
 ---
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 We usually deem our thoughts as well-established or well understood by ourselves, 
 
 long before we put them out there in the world (putting them out there = ex. Writing down thoughts, talking/explaining an idea).
@@ -157,3 +152,9 @@ Constantly knocking the door on our thoughts/understandings with <b>exposure to 
 is <b>one</b> way to go about it, and to really see whether the energy we put into trying to understand something ,“with ourselves”, has been really transferred into something real, or has been transferred to a “fake” type of energy/fake perception, waiting to be destroyed.
 
 
+<style>
+  .markdown-body{
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

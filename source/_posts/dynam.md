@@ -5,12 +5,7 @@ categories: [Extras/Questions]
 index_img: /img/igtfe.jpeg
 ---
 
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>
+
 
 There are all sorts of difficulties, at least in my conceptualization, in rigorously dividing the two “aspects” of knowledge we mentioned in the question, because these two aspects of knowledge might be more intertwined than we think, but for the sake of understanding the world just a little bit more, let’s give it a try and separate them for now. 
 
@@ -43,3 +38,10 @@ It also seems to me like pure theoretical knowledge is directly proportional to 
 <h3>Conclusion</h3>
 
 One conclusion we can come to after thinking about this question (and my random answers about it) from a macro and micro level is that: both practical and theoretical knowledge are equally important in the trip of life. Putting one over the other, ontologically, doesn’t seem like the optimal way to go, because both of them seem to construct our productive realities in some way, whether the individual is absorbing/seeking or producing that knowledge.
+
+<style>
+  .markdown-body{
+  font-size: clamp(17.6px, 2.4vw, 21px);
+  line-height: 1.7;
+  }
+</style>

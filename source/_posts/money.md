@@ -6,9 +6,10 @@ index_img: img/economyy.gif
 ---
 
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 
 ### Economics as a cycle:

@@ -5,9 +5,10 @@ categories: [Extras/Questions]
 index_img: img/21e.png
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 This question keeps knocking at the door of reality in some sense, because in one way we perceive the world as a set of problems. It might seem like an obvious question, you have problems and solutions, 
 

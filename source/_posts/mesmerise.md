@@ -5,9 +5,10 @@ categories: [Human Nature]
 index_img: /img/ccloc.png
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 
 ### The structure of identity:

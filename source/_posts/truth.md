@@ -5,9 +5,10 @@ categories: [Philosophy]
 index_img: /img/Tt.jpeg
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 
 I think It’s worth starting off with saying that it’s not at all obvious what the nature of this thing called “truth” is because <!--more--> I think it requires, in turn, an understanding of a good amount of assumptions. But let’s try to lay it out and see what it means from an ‘Epistime’ & ‘Techne’ perspective (Epistime = knowledge or philosophical inquiry / Techne = practical applications of that Knowledge). I think it’s also worth mentioning that this is a humble trial to define and outline what truth is and what it does. I think of it almost like a first step to fundamentally understand where the idea of truth is rooted in our conception of the world, from first principles, and to understand it in a rational way, and also, from a philosophical perspective, to rationally move us past Nihilism, postmodernist solutions, or destructive skepticism (We’ll also make the case in an indirect sense, that destructive skepticism indeed exists).

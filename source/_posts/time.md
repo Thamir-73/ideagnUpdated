@@ -11,9 +11,10 @@ excerpt: "Topic Stamps;
  5) #3: Think realistically, not symbolically."
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 It’s pretty safe to say that time management is the ultimate over-arching skill that penetrates every endeavour one is trying to reach. Everything requires time, and managing that time will automatically give you a default starting advantage over anything you’re trying to achieve.
 

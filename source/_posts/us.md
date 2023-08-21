@@ -5,9 +5,10 @@ categories: [Philosophy]
 index_img: img/Untitled3.png
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 When we think of everything around us, it seems very intuitive to say that “minor” tweaks in initial inputs or conditions usually lead to just tiny little changes <!--more-->  in the output or macro-response we get. And this is not coming completely out of the blue, but rather this at first sight seems consistent because many times we don’t dig enough to see the consequences of things/inputs really precisely, so we deem it as insignificant because it wasn’t detected thoroughly in the first place. And the leap to generalize this observation is not a really big one if overlooking 
 

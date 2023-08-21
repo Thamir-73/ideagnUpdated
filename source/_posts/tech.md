@@ -11,9 +11,10 @@ excerpt: "Topic Stamps:
  5) Meta-lesson/Conclusion."
 ---
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 This question of Whether technologies actually lead to progress is something that is often taken for granted or overlooked.
 

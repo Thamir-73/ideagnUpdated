@@ -6,9 +6,10 @@ index_img: /img/igtfe.jpeg
 ---
 
 <style>
-  .markdown-body
+  .markdown-body{
   font-size: clamp(16.6px, 2.4vw, 21px);
   line-height: 1.7;
+  }
 </style>
 
 There are all sorts of difficulties, at least in my conceptualization, in rigorously dividing the two “aspects” of knowledge we mentioned in the question, because these two aspects of knowledge might be more intertwined than we think, but for the sake of understanding the world just a little bit more, let’s give it a try and separate them for now. 

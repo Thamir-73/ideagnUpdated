@@ -4,6 +4,13 @@ date: 2022-05-26
 categories: [Philosophy]
 index_img: /img/al1.jpeg
 ---
+
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 The possible positions on mysteries of life beyond earth has been crazy varied between people. And people seem to understand it and have a position on it in all sorts of different ways. Some people think of the movie like version of life outside earth, others think it’s non-existent, others have the possibility of any life form occurring extra-terrestrially, and others have really just not thought about it very much to build an opinion about the matter. But it’s worth taking a route down some nuances on this topic, and building a relatively systematic way of seeing it. 
                 
                 

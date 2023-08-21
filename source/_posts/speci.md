@@ -11,6 +11,12 @@ excerpt: "Topic Stamps:
  5) Truth & specialisation
  ... "
 ---
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 There has probably been no better time than now, to discuss this topic of 
 
 specialising knowledge on one or a handful of topics, 

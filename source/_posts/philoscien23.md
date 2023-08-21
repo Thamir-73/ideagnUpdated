@@ -4,6 +4,12 @@ date: 2023-01-21
 categories: [Philosophy, Philosophy of Science]
 index_img: img/rrocke.jpeg
 ---
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 Science as a source of knowledge, and as a practical application of that knowledge, in general, has endowed us with all sorts of improvements in the qualities of life, and a better understanding of the world around us, whether it’s medications that oppose fatal ailments, the understanding of general relativity, or computers/devices to share information and create sophisticated systems with.
 
 

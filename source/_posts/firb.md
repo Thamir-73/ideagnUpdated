@@ -4,6 +4,11 @@ categories: [Philosophy]
 index_img: img/Untitled2.jpeg
 date: 2022-03-08
 ---
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
 
 Are the motivators behind our behavior some kind of crystal-clear variables that we see clearly on introspection? Well, due to the magnitude and temporal-limitations of our behavior motivators sometimes, It’s hard to know what drives the behavior we did or intend to do. There is such a wide-variety of inputs we derive our behaviors from that sometimes it’s easy to lose track of all the mechanisms behind these behaviors (That’s why game theory is there to somwhat help us with this). In one way, the “who is behind the wheel” analogy is a fallacious one because it assumes that the behavior driver and the behavior doer are two separate things, but a lot of the times the behavior doer and the behavior mechanisms are just one part of the same mesh i.e. us. But I am happy to stick with the analogy here because I think it’s good to strip away the behavior motivators from the doer, and then after examining it abstractly, we can re-embed it into the behavior doer and see how it weighs in with the other factors. 
 

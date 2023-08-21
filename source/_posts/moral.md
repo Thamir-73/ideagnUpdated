@@ -4,6 +4,13 @@ date: 2022-12-18
 categories: [Philosophy]
 index_img: img/21e.png
 ---
+
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 ## The purpose of Morality:
 You would think that we are just stating the trivially obvious here, but I think stating “the obvious” is always one of the best ways to understand a topic because “the obvious” is always, paradoxically enough, underestimated, and subconsciously brushed under the rug, so let’s start by exactly doing that. If we take a stroll down the purpose of morality, you would hear some people say that morality’s purpose is embedded in the idea in and of itself, but I think given today’s disputes/differences on morality, it has gone too far to refer to the “intuitive”, and for that we need to substantiate each claim to begin to agree on the premises or the conclusions we make. It’s fair to start-off with what I call the consequential purpose of morality, which is: 
 

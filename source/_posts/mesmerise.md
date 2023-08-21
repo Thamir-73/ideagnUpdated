@@ -4,6 +4,12 @@ date: 2022-08-22
 categories: [Human Nature]
 index_img: /img/ccloc.png
 ---
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 ### The structure of identity:
 It’s important to first see from the outside what’s the structure of our identities as humans. Because we get so much input from the world (as a result of our consciousness), we need to distinguish what things we understand to be a part of our identity. We can consider the first layer of our identity as biology/body (notice here we didn’t say sex, we said biology because it includes but is not restricted to sex). You can think of our biology as the prime mover in some sense. After that biology gives rise to brains, which is subject to process an innumerable amount of input with its structure. This brain or group of brains give rise to personality, feelings, and cultures, which brings us to the second part of identity which is the relatively abstract part.  We can see this distinction of first/second parts of identity becoming clear because we strive to “find ourselves” in the abstract part (our ideas, feeling, etc.), but we don’t strive to find our biological sex, for example. This is not to dismiss its validity, but just to prioritise what things build a human being.  
 

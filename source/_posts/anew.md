@@ -10,6 +10,13 @@ excerpt: "Topic Stamps;
  4) Applied to planning ?
  5) Conclusion/Meta-lesson:"
 ---
+
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 ### A new way of thinking ?
 
 When people try to understand or plan something,

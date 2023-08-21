@@ -4,6 +4,13 @@ date: 2023-03-06
 categories: [Economics]
 index_img: img/economyy.gif
 ---
+
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
+
 ### Economics as a cycle:
 
 Economics strikes me sometimes as a somehow misrepresented field, in the sense that sometimes it’s presented as a mere “description” of the acts of an economizing man, if you like, without stressing on the interconnectedness or the interchangeability of the descriptions (examples coming up). And economizing man here really means everything that comes out when human beings deal with scarce resources/services. 

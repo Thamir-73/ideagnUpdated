@@ -4,6 +4,11 @@ date: 2022-03-26
 categories: [Philosophy]
 index_img: img/Untitled3.png
 ---
+<style>
+  .markdown-body
+  font-size: clamp(16.6px, 2.4vw, 21px);
+  line-height: 1.7;
+</style>
 When we think of everything around us, it seems very intuitive to say that “minor” tweaks in initial inputs or conditions usually lead to just tiny little changes <!--more-->  in the output or macro-response we get. And this is not coming completely out of the blue, but rather this at first sight seems consistent because many times we don’t dig enough to see the consequences of things/inputs really precisely, so we deem it as insignificant because it wasn’t detected thoroughly in the first place. And the leap to generalize this observation is not a really big one if overlooking 
 
  detailed actualisation of say our behavior is common, to some   extent. But all these assumptions were questioned head-on when chaos theory came to be around the 1960’s. So when we are talking about chaos theory (or chaotic systems) what we are saying essentially is that when a certain system just changes its initial conditions slightly, and when I say slightly I am talking one decimal number in a system, the whole system can completely change its behavior given some time (the decimal number is just an abstract representation of something real, a temperature in a certain place, for example). Chaos comes from the fundamental dependence on initial conditions of the system, and what I mean by that is if you imagine an infinite number that represents say the wobble of a hypothetical object (3.2539853…), no matter how much you walk through that infinite number, all infinite digits of this system are extremely relevant to its final behavior (or its wobble in this case).

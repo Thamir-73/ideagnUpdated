@@ -1,6 +1,6 @@
 ---
 title: Knowledge Specialization VS Generalisation
-date: 2023-08-19 
+date: 2023-08-21 
 categories: [Philosophy,Economics]
 index_img: img/gensp.jpeg
 excerpt: "Topic Stamps:

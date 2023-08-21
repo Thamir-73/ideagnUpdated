@@ -111,7 +111,7 @@ We have laid out some thoughts about truth here and there, and I think it’s fa
 
 <style>
   .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
+  font-size: clamp(18.6px, 2.4vw, 21px);
   line-height: 1.7;
   }
 </style>

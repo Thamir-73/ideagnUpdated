@@ -38,7 +38,7 @@ Now this is one final arbitrary probability I can see ending up being used in an
 
 <style>
   .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
+  font-size: clamp(18.6px, 2.4vw, 21px);
   line-height: 1.7;
   }
 </style>

@@ -162,7 +162,7 @@ But in order to shift it towards the “Benign/good” side of things, we need t
 
 <style>
   .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
+  font-size: clamp(18.6px, 2.4vw, 21px);
   line-height: 1.7;
   }
 </style>

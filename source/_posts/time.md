@@ -140,7 +140,7 @@ At this point, we have built a somehow relevant intuition, and proposed some pri
 
 <style>
   .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
+  font-size: clamp(18.6px, 2.4vw, 21px);
   line-height: 1.7;
   }
 </style>

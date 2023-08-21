@@ -460,7 +460,7 @@ index:
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
-  banner_img_height: 25
+  banner_img_height: 15
 
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
@@ -528,7 +528,7 @@ index:
 #---------------------------
 post:
   banner_img: /img/imgeo4.png
-  banner_img_height: 52
+  banner_img_height: 45
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
@@ -890,7 +890,7 @@ discuss:
 #---------------------------
 archive:
   banner_img: /img/imgeo4.png
-  banner_img_height: 25
+  banner_img_height: 15
   banner_mask_alpha: 0.3
 
     
@@ -902,7 +902,7 @@ archive:
 category:
   enable: true
   banner_img: /img/imgeo4.png
-  banner_img_height: 25
+  banner_img_height: 15
   banner_mask_alpha: 0.3
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序

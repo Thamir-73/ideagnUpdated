@@ -2,7 +2,7 @@
 title: Detection of Life As We Don't Know It
 date: 2022-05-26
 categories: [Philosophy]
-index_img: img/al1.jpeg
+index_img: source/img/al1.jpeg
 ---
 The possible positions on mysteries of life beyond earth has been crazy varied between people. And people seem to understand it and have a position on it in all sorts of different ways. Some people think of the movie like version of life outside earth, others think it’s non-existent, others have the possibility of any life form occurring extra-terrestrially, and others have really just not thought about it very much to build an opinion about the matter. But it’s worth taking a route down some nuances on this topic, and building a relatively systematic way of seeing it. 
                 

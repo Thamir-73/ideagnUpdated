@@ -36,9 +36,3 @@ Now this is one final arbitrary probability I can see ending up being used in an
 
 <br><br>Speaking of clarity of words, the clarity of terms used in the sciences (or at least the trial to do so) and other intellectual endeavours is one aspect that makes them truly special and productive. I mean in the context of science usually when we are talking about definitions: 1) Terms are agreed upon their definitions clearly without confusion e.g. gravity, 2) debated upon their definition e.g. wars, or 3) the definitions are being built with empirical evidence and experiments e.g. consciousness. Of course all of these defnitions can exist in more than one of those categories and is not an either/or, but the state of these endevours is probably something to take notes from and try to build in our own scheme in some way.
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

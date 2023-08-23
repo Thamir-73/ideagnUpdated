@@ -79,9 +79,3 @@ So we see that the better we optimize for the economy, as an example, the better
 That doesn’t just show us the importance in that specific economic domain, but it reminds us how the different parts of a system, are more or less, really part of the same dynamic of effects. 
 
 
-<style>
-  .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

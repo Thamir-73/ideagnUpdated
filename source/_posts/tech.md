@@ -160,9 +160,3 @@ One thing we can extract from this is that, perhaps contrary to common belief, t
 
 But in order to shift it towards the “Benign/good” side of things, we need to understand how it can give rise harmful consequences (sometimes as side-effects), and shift the approach to technologies to be more salutary, to the degree that that’s possible.
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

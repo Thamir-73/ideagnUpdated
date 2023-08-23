@@ -33,9 +33,3 @@ In order to understand one side of the discussion, I think it’s important to t
 My main objective of the previous paragraphs is not to actually dismiss any problem people have, but rather shift some perspective to see this from another angle, because Problems and their existence are a lot of the times conceptual in nature. And by necessity, their solutions can be conceptual as well, so sometimes maybe a good way to look at things is to change and tweak the building “concepts” of some idea or belief, and see where that would take us with regards to our analysis of the world.
 
 
-<style>
-  .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

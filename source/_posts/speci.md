@@ -350,9 +350,3 @@ for both specialization and generalization:
 
 “Specialize in skills, generalize in knowledge.”
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

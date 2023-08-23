@@ -109,9 +109,3 @@ Just so we don’t lose track, I think we can think of the elaboration of this p
 ## Conclusion:
 The point of these principles and definitions is to understand the philosophy of science, and have a birds-eye view on the scientific enterprise. To link this for the purposes we mentioned in the beginning, we came to understand that scientific theories are fundamentally inductive, and we also came to understand their philosophical probabilistic changing nature across time. On a day-day basis this might not be practically relevant, as science is a great way of understanding nature, that we should take “the word” from, so to speak, but given a holistic point of view, and when things seem to contradict each other, this representation serves us to flush out the confusion.
 
-<style>
-  .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

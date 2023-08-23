@@ -29,9 +29,3 @@ Trial to optimize by passing the behavior through a "filter" i.e. constant recog
 
 I think I have stressed the structure of enacting in different kinds of behaviors here because I think the chances of going “autopilot” are much more when priorities/structures of our behavior stimulators are not known consciously. When “autopilot” is on, I believe it’s hard to ever feel any slap in the face that life tends to give us sometimes. And I think it’s necessary to be able to take/detect those slaps, and harness something out of that energy.
 
-<style>
-  .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

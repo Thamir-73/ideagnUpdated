@@ -109,9 +109,3 @@ As soon as one realises their “indefinite ignorance”, which is drawn as a ci
 
 We have laid out some thoughts about truth here and there, and I think it’s fair to mention that these paragraphs deviate from mainstream literature in the nature of the assessment, in the sense that I think the points of view I presented somehow address foundational assumptions of the topic rather than present theories or stances on truth. In conclusion, I think that truth, to put it in a somehow poetic form, is the guardian angel of collective intelligence. And we might not think of it like this, but it’s one pillar that keeps our consciousness and collective consciousness in check with regards to the world and how we approach it.
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

@@ -32,9 +32,3 @@ When we think of everything around us, it seems very intuitive to say that “mi
 - (More on attractors and the mathematics behind chaos theory  in this amazing <a href="https://youtu.be/uzJXeluCKMs">video</a>).
 
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

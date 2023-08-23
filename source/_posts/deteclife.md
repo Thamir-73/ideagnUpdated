@@ -47,9 +47,3 @@ It seems to me that we are getting closer and closer to finding better tools to 
 <br>
 <span class="material-icons">subdirectory_arrow_right</span> This specific topic has actually changed some of my perspectives on probabilities in general, and how to assess them. Try to write or think about this aspect of the argument and see where you go from there.
 
-<style>
-  .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

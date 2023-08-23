@@ -138,9 +138,3 @@ Or
 ### Conclusion:
 At this point, we have built a somehow relevant intuition, and proposed some principles, and to put the cherry on the top, so to speak, let’s move on to a conclusive reminder that, as simple as it seems, was quite enlightening to me when thinking about this framework, and that is the fact that the week has almost <b>118</b> awake hours. So our most valuable asset is quite generous, if we approach it with a mindset that gives its real value.  
 
-<style>
-  .markdown-body{
-  font-size: clamp(18.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

@@ -26,9 +26,3 @@ In some sense, our question today is meaningless to start with because we don’
 
 But to conclude, one practical approach to life is to assume that every problem (meaning everything we perceive as a problem) at hand can be approached in one way that eventually will lead to a solution (whatever practical thing we mean by that word). It’s an assumption in science and every other human endeavour that is extremely useful to the way we approach the world.  
 
-<style>
-  .markdown-body{
-  font-size: clamp(16.6px, 2.4vw, 21px);
-  line-height: 1.7;
-  }
-</style>

@@ -1,11 +1,11 @@
-// Rewrite github-markdown.css
-.markdown-body
-  font-size clamp(16.6px, 2.4vw, 21px)
+
+.markdown-body {
+  font-size clamp (16.6px, 2.4vw, 21px)
   line-height 1.7
   font-family $font-family
   margin-bottom 2rem
   color var(--post-text-color)
-
+}
   & > h1, h2
     border-bottom-color var(--line-color)
 

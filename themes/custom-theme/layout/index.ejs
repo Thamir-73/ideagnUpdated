@@ -47,10 +47,8 @@ page.banner_mask_alpha = theme.index.banner_mask_alpha
           <div class="post-meta mr-3 d-flex align-items-center">
             <i class="iconfont icon-category"></i>
             <%- partial('_partials/category-chains', { categories: post.categories, limit: 1 }) %>
-          </div> 
+          </div>
         <% } %>
-      <hr style="width: 270%;">
-        
         <% if (theme.index.post_meta.tag && post.tags.length > 0) { %>
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
@@ -63,4 +61,5 @@ page.banner_mask_alpha = theme.index.banner_mask_alpha
     </article>
   </div>
 <% }) %>
+
 <%- partial('_partials/paginator') %>

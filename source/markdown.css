@@ -25,5 +25,9 @@
   position: relative;
   margin-top: -2rem;
   padding: 2rem 0rem;
+ }
 
+ .header-inner{
+      max-height: unit(80 / banner-width-height-ratio, "vw");
+      height: 60%;
  }

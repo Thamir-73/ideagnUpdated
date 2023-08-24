@@ -930,7 +930,7 @@ about:
 #---------------------------
 page:
   banner_img: /img/imgeo4.png
-  banner_img_height: 60
+  banner_img_height: 25
   banner_mask_alpha: 0.3
 
 #---------------------------

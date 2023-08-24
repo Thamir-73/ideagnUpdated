@@ -1,9 +1,8 @@
 ---
 title: Podcast
-layout: post
+layout: page
 name: From 1-st Principles
 date: 2023-08-16
-
 ---
 
 ## From 1-st Principles Channel:

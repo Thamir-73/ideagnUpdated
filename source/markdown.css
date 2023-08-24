@@ -1,17 +1,17 @@
 .markdown-body{
-  font-size: clamp(17.6px, 2.4vw, 21px);
+  font-size: clamp(19.6px, 2.4vw, 21px);
   line-height: 1.7;
   }
 
   
 
-  .index-btm {
+  .index-btm{
     border-bottom: 1px solid #888;
-    padding-bottom: 0.4rem;
+    padding-bottom: 0.55rem;
 }
 
 .scroll-down-bar{
-      display:
+      display: inline;
  }
 
  .banner{
@@ -22,12 +22,9 @@
  }
 
  #board{
-  position: relative;
-  margin-top: -2rem;
   padding: 2rem 0rem;
  }
 
  .header-inner{
-      max-height: unit(80 / banner-width-height-ratio, "vw");
       height: 60%;
  }

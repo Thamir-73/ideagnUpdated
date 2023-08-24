@@ -10,9 +10,18 @@
     padding-bottom: 0.55rem;
 }
 
-.scroll-down-arrow{
+.scroll_down_arrow{
       display: block !important;
  }
+ 
+@media screen and (max-width:1600px){
+ .scroll-down-bar{
+  display: block !important;
+  }
+  .scroll_down_arrow{
+    display: block !important;
+  }
+}
 
  .banner{
   height: 85%;

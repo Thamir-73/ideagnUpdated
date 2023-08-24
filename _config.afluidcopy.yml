@@ -257,7 +257,7 @@ lazyload:
 
   # 加载时的占位图片
   # The placeholder image when loading
-  loading_img: /img/lloadi.webp
+  loading_img: /img/loadp.gif
 
   # 开启后懒加载仅在文章页生效，如果自定义页面需要使用，可以在 Front-matter 里指定 `lazyload: true`
   # If true, only enable lazyload on the post page. For custom pages, you can set 'lazyload: true' in front-matter
@@ -980,7 +980,7 @@ links:
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: /img/lloadi.webp
+  onerror_avatar: /img/loadp.gif
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links

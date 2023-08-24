@@ -11,7 +11,7 @@
 }
 
 .scroll-down-bar{
-      display: inline;
+      display: block !important;
  }
 
  .banner{

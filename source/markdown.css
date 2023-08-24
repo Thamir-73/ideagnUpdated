@@ -11,11 +11,11 @@
 }
 
 .scroll-down-bar{
-      display: block !important;
+      display: inline !important;
  }
 
  .banner{
-  height: 90%;
+  height: 80%;
   position: relative;
   overflow: hidden;
   cursor: default;

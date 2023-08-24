@@ -11,7 +11,7 @@
 }
 
 .scroll-down-bar{
-      display: inline !important;
+      display: block !important;
  }
 
  .banner{
@@ -25,6 +25,6 @@
   padding: 2rem 0rem;
  }
  .banner-text {
- padding-top: 45px;
+ padding-top: 65px;
  }
 

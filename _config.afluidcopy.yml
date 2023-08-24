@@ -237,7 +237,7 @@ custom_js:
 # The usage is the same as custom_js
 custom_css: /markdown.css
 
-custom html: /index.afluidcopy.html
+custom_html: /markdownn.ejs
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计

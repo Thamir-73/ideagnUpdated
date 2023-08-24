@@ -12,14 +12,17 @@
 
 .scroll_down_arrow{
       display: block !important;
+      padding-top: 3rem;
  }
  
 @media screen and (max-width:1600px){
  .scroll-down-bar{
   display: block !important;
+  padding-top: 3rem;
   }
   .scroll_down_arrow{
     display: block !important;
+    padding-top: 3rem;
   }
 }
 

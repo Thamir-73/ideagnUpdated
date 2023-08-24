@@ -1,5 +1,6 @@
 ---
 title: Podcast
+layout: post
 name: From 1-st Principles
 date: 2023-08-16
 

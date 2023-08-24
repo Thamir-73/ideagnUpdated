@@ -6,5 +6,6 @@
   
 
   .index-btm {
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #888;
+    padding-bottom: 0.2rem;
 }

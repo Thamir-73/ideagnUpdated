@@ -15,7 +15,7 @@
  }
 
  .banner{
-  height: 80%;
+  height: 85%;
   position: relative;
   overflow: hidden;
   cursor: default;
@@ -23,5 +23,9 @@
 
  #board{
   padding: 2rem 0rem;
+ }
+ .banner-text {
+  text-align: center;
+  vertical-align: middle;
  }
 

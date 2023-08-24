@@ -7,5 +7,23 @@
 
   .index-btm {
     border-bottom: 1px solid #888;
-    padding-bottom: 0.2rem;
+    padding-bottom: 0.4rem;
 }
+
+.scroll-down-bar{
+      display:
+ }
+
+ .banner{
+  height: 70%;
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+ }
+
+ #board{
+  position: relative;
+  margin-top: -2rem;
+  padding: 2rem 0rem;
+
+ }

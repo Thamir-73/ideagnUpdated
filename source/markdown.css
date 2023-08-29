@@ -1,7 +1,7 @@
 .markdown-body{
   font-size: clamp(18.4px, 2.4vw, 21px);
   line-height: 1.7;
-  }
+}
 
   
 
@@ -16,12 +16,12 @@
   position: relative;
   overflow: hidden;
   cursor: default;
- }
+  }
 
  #board{
   padding: 2rem 0rem;
  }
  .banner-text {
  padding-top: 65px;
- }
+}
 

@@ -86,7 +86,7 @@ there is more to it than that we can say.
 
 And in order to understand the other aspects of the situation, we need to understand what makes a “good” economy.
 
-Establishing growth as not necessarily leading to a “good” economy:
+#### Establishing growth as not necessarily leading to a “good” economy:
 
 Hang on with me, we’ll relate this idea to specialization soon enough.
 

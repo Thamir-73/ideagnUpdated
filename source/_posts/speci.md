@@ -215,9 +215,9 @@ You would think that focusing on a specific discipline would get you even closer
 
 because it seems like we always attribute  “knowingness” to the people who are “experts” on a specific thing.
 
-But there is one approach that perhaps
+But there is one approach that's perhaps
 
-important to mention which is that,
+important to mention, which is that,
 humans don’t only learn things and describe them, 
 
 they also project their points of views to things, as well, So it’s a recursive cycle.

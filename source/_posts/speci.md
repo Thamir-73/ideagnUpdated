@@ -80,11 +80,8 @@ is because every task, skillset, or knowledge is atomised and specialised, for s
 
 But the idea that a “growing” economy due to specialization, reflexively = a “good” economy, is just *one* way to look at the situation…
 
-And although, a growing economy due to specialization, is reflexively and immediately identified as a “good economy”,
 
-there is more to it than that we can say.
-
-And in order to understand the other aspects of the situation, we need to understand what makes a “good” economy.
+And in order to understand the other aspects of the situation, we need to understand what makes a “good” economy, first.
 
 #### Establishing growth as not necessarily leading to a “good” economy:
 
@@ -186,12 +183,12 @@ all I am trying to say is that specialization can <b>occasionally</b> dilute you
 
 as it’s more difficult to actually see the bigger picture you’re operating under, and construct it in a clear way.
 
-2) Another caveat that’s perhaps also  important to note is that,
+2. Another caveat that’s perhaps also  important to note is that,
 
 There is a gradient where everything we  said about the specialization problem can be over-emphasised by someone.
 
 The overemphasis can actualise sometimes, by looking at the “bigger picture” at every step of the way, 
-which is not actually “essential and might actually make it more difficult to understand something, as I might’ve portrayed it to be.
+which is not actually essential and might actually make it more difficult to understand something, as I might’ve portrayed it to be.
 
 (perhaps it’s a personal preference to always bring things to the bigger picture, but I wanted to be objective and mention this point/limitation, even though I always try to bring things to the bigger picture).
 
@@ -205,7 +202,7 @@ But with all these things into consideration,
 
 we need to be cognizant of all the nuances we have mentioned thus far, and be conscious of our “specialization” and what it could do.
 
-This probably not as relevant to people as much as I think,
+This is probably not as relevant to people as much as I think,
 
 but from a practical perspective,
 

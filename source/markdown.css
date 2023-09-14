@@ -23,5 +23,7 @@
  }
  .banner-text {
  padding-top: 65px;
+ -webkit-text-fill-color: transparent;
+ background-image: linear-gradient(132deg, #4b39ef, #ee8b60);
 }
 

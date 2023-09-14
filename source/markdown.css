@@ -26,6 +26,5 @@
 }
 
 .banner-text h2 {
-  -webkit-text-fill-color: transparent;
   color: linear-gradient(132deg, #4b39ef, #ee8b60);
 }

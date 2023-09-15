@@ -1,8 +1,8 @@
 ---
-title: Knowledge & information
+title: Knowledge and information;The difference
 date: 2023-09-15 
 categories: [Philosophy]
-index_img: img/IMG_1273.jpg
+index_img: img/IMG_1276.jpg
 excerpt: "Topic Stamps:
  1) Intro.
  2) The line being drawn.

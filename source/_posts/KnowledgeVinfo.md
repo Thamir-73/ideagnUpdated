@@ -164,7 +164,7 @@ learning is the process of properly mixing information into our complex knowledg
 
 and recognizing that in this age of “information” is crucial for us to actually, and perhaps more precisely and productively, turn it into the “age of knowledge”.
 
-
+<hr>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">

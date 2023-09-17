@@ -11,7 +11,15 @@ excerpt: "Topic Stamps:
  5) Truth & specialisation
  ... "
 ---
+<style>
+    display: none;
+</style>
 
+<script>
+    (window).load(function(){
+   ('.post-content').slideDown('slow');
+ });
+</script>
 
 There has probably been no better time than now, to discuss this topic of 
 

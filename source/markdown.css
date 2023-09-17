@@ -29,3 +29,9 @@
   opacity: 0;
   transition: opacity 1.3s ease-in-out;
 }
+
+.index-card > div {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  
+}

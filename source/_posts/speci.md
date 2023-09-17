@@ -17,12 +17,6 @@ excerpt: "Topic Stamps:
      }
 </style>
 
-<script>
-   
-(window).load(function() {
-    ('.post-content').delay(2000).fadeIn(2000)
-})
-</script>
 
 There has probably been no better time than now, to discuss this topic of 
 

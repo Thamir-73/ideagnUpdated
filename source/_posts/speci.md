@@ -18,9 +18,14 @@ excerpt: "Topic Stamps:
 </style>
 
 <script>
-    (window).load(function(){
-   ('#board').slideDown('slow');
- });
+   
+
+ (document).ready(function(){
+  if(('#board').is(':hidden'))
+  {
+    ('#board').slideDown('slow');
+  }
+});
 </script>
 
 There has probably been no better time than now, to discuss this topic of 

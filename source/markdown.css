@@ -30,11 +30,7 @@
  animation-delay: 0.1s;
 }
 
-.banner-text::after {
-  content: url(img/icons8-writing-24.png);
-  vertical-align: middle;
-  margin-right: 5px; /* Adjust as needed */
-}
+
 
 @keyframes ups-u {
   from {

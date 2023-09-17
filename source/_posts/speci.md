@@ -18,8 +18,8 @@ excerpt: "Topic Stamps:
 </style>
 
 <script>
-    (window).load(function(){
-   ('.post-content').slideDown('slow');
+    $(window).load(function(){
+   $('.post-content').slideDown('slow');
  });
 </script>
 

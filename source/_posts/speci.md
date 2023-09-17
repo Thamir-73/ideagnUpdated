@@ -11,11 +11,7 @@ excerpt: "Topic Stamps:
  5) Truth & specialisation
  ... "
 ---
-<style>
-   .post-content {
-    display: none;
-     }
-</style>
+
 
 
 There has probably been no better time than now, to discuss this topic of 

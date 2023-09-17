@@ -24,3 +24,7 @@
  .banner-text {
  padding-top: 65px;
 }
+
+.post-content {
+  display: none;
+  }

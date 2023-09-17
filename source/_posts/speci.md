@@ -13,7 +13,7 @@ excerpt: "Topic Stamps:
 ---
 <style>
    .post-content {
-     visibility: hidden;
+    display: none;
      }
 </style>
 

@@ -237,7 +237,7 @@ custom_js: /cusstom.js
 # The usage is the same as custom_js
 custom_css: /markdown.css
 
-custom_html: /cusstom.html
+
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计

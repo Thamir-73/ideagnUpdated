@@ -43,7 +43,7 @@
 }
 
 .index-card:nth-child(3) {
-  animation-delay: 0.7s;
+  animation-delay: 0.5s;
 }
 @keyframes cascade-reveal {
   from {

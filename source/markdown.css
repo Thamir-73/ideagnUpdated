@@ -35,11 +35,13 @@
 .index-card {
   opacity: 0;
   animation: cascade-reveal 1s ease-in-out forwards;
+  animation-delay: 0.2s;
 }
 
-.index-card:not(:first-child) {
-  animation-delay: calc(0.5s * (n - 1));
+.index-card:not(:nth-child(1)){
+  animation-delay: 0.6s;
 }
+
 
 
 @keyframes cascade-reveal {

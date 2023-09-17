@@ -27,5 +27,5 @@
 
 .post-content {
   opacity: 0;
-  transition: opacity 2s ease-in-out;
+  transition: opacity 1.3s ease-in-out;
 }

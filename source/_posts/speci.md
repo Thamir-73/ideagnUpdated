@@ -12,7 +12,9 @@ excerpt: "Topic Stamps:
  ... "
 ---
 <style>
-    display: none;
+   .post-content{
+     display: none;
+     }
 </style>
 
 <script>

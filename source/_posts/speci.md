@@ -12,14 +12,14 @@ excerpt: "Topic Stamps:
  ... "
 ---
 <style>
-   .post-content{
+   #board {
      display: none;
      }
 </style>
 
 <script>
-    $(window).load(function(){
-   $('.post-content').slideDown('slow');
+    (window).load(function(){
+   ('#board').slideDown('slow');
  });
 </script>
 

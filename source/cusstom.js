@@ -1,6 +1,7 @@
 
 
 
-  $(window).load(function() {
-    $('.post-content').delay(2000).fadeIn(2000)
-})
+window.addEventListener('DOMContentLoaded', function() {
+  var postContent = document.querySelector('.post-content');
+  postContent.style.opacity = 1;
+});

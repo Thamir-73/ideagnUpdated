@@ -11,13 +11,6 @@ excerpt: "Topic Stamps:
  5) Truth & specialisation
  ... "
 ---
- <script>
-    window.addEventListener('DOMContentLoaded', function() {
-  var postContent = document.querySelector('.post-content');
-  postContent.style.opacity = 1;
-});
- </script>
-
 
 There has probably been no better time than now, to discuss this topic of 
 

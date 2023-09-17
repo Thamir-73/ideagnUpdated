@@ -30,9 +30,8 @@
  animation-delay: 0.1s;
 }
 
-.banner-text::before {
+.banner-text::after {
   content: url(img/icons8-writing-24.png);
-  display: flex;
   vertical-align: middle;
   margin-right: 5px; /* Adjust as needed */
 }

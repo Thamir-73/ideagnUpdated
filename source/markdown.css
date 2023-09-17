@@ -23,13 +23,26 @@
  }
  .banner-text {
  padding-top: 65px;
+ opacity: 0;
+ animation: ups-u 1s ease-in-out forwards;
+ animation-delay: 0.2s;
+}
+
+@keyframes ups-u {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .post-content {
   opacity: 0;
   transition: opacity 0.8s ease-in-out;
 }
-
 
 
 .index-card {

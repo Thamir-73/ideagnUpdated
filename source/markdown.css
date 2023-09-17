@@ -37,8 +37,8 @@
   animation: cascade-reveal 1s ease-in-out forwards;
 }
 
-.index-card:nth-child(n+2) {
-  animation-delay: calc(0.2s + 0.3s * (n - 1));
+.index-card:not(:first-child) {
+  animation-delay: calc(0.5s * (n - 1));
 }
 
 

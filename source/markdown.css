@@ -30,8 +30,15 @@
   transition: opacity 1.3s ease-in-out;
 }
 
+.index-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .index-card > div {
   opacity: 0;
   transition: opacity 1s ease-in-out;
-  
+  flex: 0 0 25%; /* Adjust the width as needed */
+  /* Add additional styling properties as needed */
 }
+

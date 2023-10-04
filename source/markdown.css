@@ -14,7 +14,6 @@
  .banner{
   height: 85%;
   position: relative;
-  overflow: hidden;
   cursor: default;
   }
 
@@ -25,7 +24,6 @@
 
  .banner-text {
  padding-top: 65px;
- opacity: 0;
 }
 
 .post-content {

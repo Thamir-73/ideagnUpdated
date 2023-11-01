@@ -26,7 +26,7 @@
  padding-top: 65px;
 
 }
-.container .navbar-brand a{
+.container .navbar-brand{
   color: linear-gradient(132deg, #4d4dd0, #ee60b0);
   background-color: linear-gradient(132deg, #4d4dd0, #ee60b0);
 }

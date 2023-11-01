@@ -148,8 +148,7 @@ color:
   navbar_bg_color: "#2f4154"
   navbar_bg_color_dark: "#1f3144"
 
-  blog_title_color: "#4d4dd0"
-  blog_title_color_dark: "#4d4dd0"
+  blog_title: "#4d4dd0"
   # 顶部菜单字体色
   # Color of navigation bar text
   navbar_text_color: "#fff"

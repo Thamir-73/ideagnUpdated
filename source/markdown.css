@@ -22,7 +22,7 @@
  }
 
 
- .banner-text {
+ .banner-text h2{
  padding-top: 65px;
  color: linear-gradient(132deg, #4d4dd0, #ee60b0);
  background-color: linear-gradient(132deg, #4d4dd0, #ee60b0);

@@ -26,8 +26,9 @@
  padding-top: 65px;
 
 }
-.navbar-brand a{
+.navbar-brand{
   color: linear-gradient(132deg, #4d4dd0, #ee60b0);
+  background-color: linear-gradient(132deg, #4d4dd0, #ee60b0);
 }
 
 .post-content {

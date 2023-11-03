@@ -14,7 +14,7 @@ excerpt: "Topic Stamps:
 
 In light of the constant exposure to worldly events,
 
-and in the age of infinite access to information, 
+and in the age of infinite access to information,
 
 which, don’t get me wrong, is almost one of the best things that ever happened to human knowledge,
 
@@ -82,11 +82,11 @@ is to get a grip of the past, and not only the present events (if applicable to 
 
 now I’m self-conscious enough to understand that this might sound super basic,
 
-but In order to truly, grasp the deeper meaning or idea, one has to strike a relevant example.
+but In order to truly grasp the deeper meaning or idea, one has to strike a relevant example.
 
-And an example of an event that happened in recent times is the issue of Covid-19 Virus, and whether it started naturally or from a lab, 
+And an example of an event that happened in recent times is the issue of the Covid-19 Virus, and whether it started naturally or from a lab, 
 
-since, there was a true information war going on on its origins.
+since, there was a true information war going on, on its origins.
 
 Let’s ask the deep question of, 
 how do we add to our inventory of truth, and avoid/detect false information when approaching such topics?
@@ -98,16 +98,18 @@ but an extra effort one can probably do to dig into the truth of things,
 
 is understanding <b>the past</b> well, along with the present information, to contextualize it more,
 
-and that would lead to more truthful positions from <b>two</b> main angles: 
+and that would lead to more truthful positions, from <b>two</b> main angles: 
 
 <b>A)</b> There is the obvious quantiative effect where understanding the history of a certain topic will provide more context.
 
-Even though this is common knowledge, in some sense, it’s still a good point to emphasize,
+Even though this is common knowledge, in some sense, it’s still a good point to emphasize.
 
-and to add on it more usefulness, 
+and to add on this point more usefulness, 
 
 we can say that one needs to understand that the past will inform us about the present, through patterns that aren’t easily seen, 
-rather than give us clear-cut facts about the present.
+rather than give us clear-cut facts about the present. 
+
+Which goes to say that looking for those patterns, might not be that obvious, at the first instance.
 
 And those ‘indirect’ patterns aid in sensemaking and evidence seeking, about a certain topic.
 
@@ -147,12 +149,12 @@ Another point we can raise to this objection is to say that, usually, the past h
 
 So the advantage of hindsight is pretty important, in this context because it more likely to present truth, and expose falsehood.
 
-Not to say it gives perfect approximation, of course everything/every time span is subject to the problem we presented, but all we’re saying is that the past gives a more probability to be clearer, in light of the current context.
+Not to say it gives perfect approximation, of course everything/every time span, is subject to the problem we presented, but all we’re saying is that the past gives a more probability to be clearer, in light of the current context.
 
 
 ### An interesting comparison:
 
-It’s very interesting to think about the fact that when it comes to individuals, judging by past experiences, is less likely to be consistent. relative to big institutions (media machines, states).
+It’s very interesting to think about the fact that when it comes to individuals, judging by past experiences, is less likely to be consistent, relative to big institutions (media machines, states).
 
 But the bigger the institution, the more its present will relatively replicate its past.
 
@@ -160,25 +162,24 @@ If a person, one year ago, lies about X event, you <b>could</b> say that they’
 
 but if a state, one year ago, lies about y topic, 
 
-you could say with more assertiveness, that they lied today about y event,
-because it’s just more difficult to change incentives for larger institutions.
+you could say with more assertiveness, that they're also lying today about y event,
+because it’s just more difficult to change incentive structures for larger institutions.
 
 
-Because smaller things (individuals, small entities) as opposed to bigger things (monopolies, states, media machines), are easier to change, therefore more unpredictable.
+Because smaller entities (individuals, small entities) as opposed to bigger entities (monopolies, states), are easier to change, therefore more unpredictable.
 
 
 ### Fallacies / taking it to the extreme:
 It might be interesting to say, after we looked at our aforementioned tools, 
 
-there there is a realm that one can misuse those tools to the extreme, where by:
+there is a realm where one can misuse those tools to the extreme, where by:
 
 looking into the past too much and judging by it, and relatively excluding the present, would be what is known as the genetic fallacy (happens more often than you think).
 
 Looking into the present without much historical context, would be what is known as an: argument from ignorance.
 
 
-### conclusion:
-
+### Conclusion:
 I’d like to end by saying: even though the ideas discussed are not necessarily novel and only reminders/common sense, 
 
 but reminders are sometimes even more important than novelty, when approaching such complex issues.

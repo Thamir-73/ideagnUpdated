@@ -92,11 +92,11 @@ Not dismissal, but sheer uninterest, for some reason, which is a very interestin
 
 
 ### Argument #1: You Can’t Keep Your Cake, And Eat It, Both:
-So I want to start the first argument of showing that the problem of evil is Not indeed a problem, by first clarifying the nature of suffering, and then moving to the main argument.
+So I want to start the first argument by first clarifying the nature of suffering, and then moving to the main argument.
 
-A lot of people assume when talking about suffering or when presenting the problem of evil, as if suffering is a monster that should be completely removed from the human condition,
+So a lot of people assume when talking about suffering or when presenting the problem of evil, as if suffering is a monster that should be completely removed from the human condition,
 
-but I am sure we can all sensibly agree that there is a lot of “suffering” we endure (perhaps even willful, a lot of the times), that ends up making our condition in life more favorable (ex. the pain from exercise, pain of failure, etc…).
+but I am sure we can all sensibly agree that there is a lot of “suffering” we endure (perhaps even willful, a lot of the times), that ends up making our condition in life even more favorable (ex. the pain from exercise, pain of failure, etc…).
 
 
 If you don’t really agree still, then try not doing anything that causes you any “suffering”, and see how quickly uninteresting your life will get, to say the least.

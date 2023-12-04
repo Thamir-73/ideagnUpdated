@@ -4,10 +4,10 @@ date: 2023-12-04
 categories: [Philosophy]
 index_img: img/milkiw.jpg
 excerpt: "Topic Stamps:
- 1) Getting my biases out of the way:
- 2) On the nature of other people’s bias:
- 3) Argument 1: You Can’t keep your cake,& eat it,both:
- 4) Argument #2: No evil?
+ 1) Getting My Biases Out Of The Way:
+ 2) On The Nature Of Other People’s Bias:
+ 3) Argument 1: You Can’t Keep Your Cake,& Eat It,Both:
+ 4) Argument #2: No Evil?
  5) Possible Counter-arguments:
  ... "
 ---

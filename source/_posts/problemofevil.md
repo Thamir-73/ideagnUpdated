@@ -2,11 +2,11 @@
 title: Debunking The Problem Of Evil
 date: 2023-12-04 
 categories: [Philosophy]
-index_img: img/milkiw.png
+index_img: img/milkiw.jpg
 excerpt: "Topic Stamps:
  1) Getting my biases out of the way:
  2) On the nature of other people’s bias:
- 3) Argument 1: You Can’t keep your cake,& eat it,both:
+ 3) Argument 1: You Can’t keep your cake,& eat it,both
  4) Argument #2: No evil?
  5) Possible Counter-arguments:
  ... "
@@ -162,8 +162,7 @@ I'm just trying to bring more perspectives/dimensions into suffering and how it 
 
 (I want you to put in mind, as a side note before moving on from this argument, that this argument becomes much stronger and even more complete, when we prove the existence of god from first principles, which we will definitely delve into soon in another essay).
 
-### Argument #2: No evil?
-Then sorry, No Freewill…
+### Argument #2: No evil? <br>Then sorry, No Freewill…
 
 So we’ve dealt with the claim that deals with suffering as an absolute culprit, and we showed how it could be looked from multiple dimensions, rather than the uni-dimensional look which is that of the proponents of the problem.
 
@@ -204,7 +203,7 @@ which is what a lot of people really miss in most of their “logical” argumen
 
 <hr>
 <b>(( I hate using jargon that some people might not understand, so here are a few words I’ll use below, that might sound “fancy”:
-
+<br>
 Anthropomorphism: is the attribution of human traits, emotions, or intentions to non-human entities (i.e. god in this context).
 
 Omniscience: Is the capacity for complete/full knowledge. ))</b>

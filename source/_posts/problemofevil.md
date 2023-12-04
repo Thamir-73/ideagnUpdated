@@ -6,7 +6,7 @@ index_img: img/milkiw.jpg
 excerpt: "Topic Stamps:
  1) Getting my biases out of the way:
  2) On the nature of other people’s bias:
- 3) Argument 1: You Can’t keep your cake,& eat it,both
+ 3) Argument 1: You Can’t keep your cake,& eat it,both:
  4) Argument #2: No evil?
  5) Possible Counter-arguments:
  ... "
@@ -37,7 +37,7 @@ Now that we understand the issue, let’s further progress into a counter-positi
 
 which is that this idea of the problem of evil (and it conflicting with the existence of god) is not indeed a “problem”, once put under rigorous examination, for reasons I’ll explicate here.
 
-### Getting my biases out of the way:
+### Getting My Biases Out Of The Way:
 I do think it’s the crucial for you (the reader) before reading this examination seriously, to know my positions, in order to assess and cross-examine my possible, argument-affecting biases, 
 
 and try to direct possible refutation and criticism, towards areas that I might be bias towards, which I might be blind to.
@@ -62,7 +62,7 @@ reasons.
 
 The second possible area of bias I want to mention is that regarding suffering, which is what this problem of evil is really about, is that,
 
-I haven’t, thankfully, had a severe calamity in life where I lost a health blessing like a leg or function of my body, thankfully, which might also be an area of bias in undermining “suffering” others might endure, 
+I haven’t, thankfully, had a severe calamity in life where I lost a health blessing like a leg or function of my body, which might also be an area of bias in undermining “suffering” others might endure, 
 
 but I’m completely aware of this possible area of bias when writing and thinking, so I’ll try to keep it in mind, to make the strongest case for my arguments.
 
@@ -72,12 +72,12 @@ So taking all the considerations I mentioned,
 those confessed possible biases might give you a more clear mechanism to discern my arguments and push back, if they indeed have problems with them.
 
 
-### On the nature of other people’s bias:
+### On The Nature Of Other People’s Bias:
 To flip things a bit, I want to also point out a possible bias the reader might have, which I noticed to be fairly common, 
 
-having been exposed both experientially and intellectually, to traditional/Eastern perspectives, and also western/progressive ideals, and gotten to appreciate the elements of truth in both.
+having been exposed both experientially and intellectually, to traditional/Eastern perspectives, and also western/progressive ideals, and gotten to appreciate the elements of truth in both
 
-The bias I see sometimes from <b>some</b> thinkers who lean into western ideals, is dismissal (mostly subconsciously)  towards, let’s say, conventional religions,
+the bias I see sometimes from <b>some</b> thinkers who lean into western ideals, is dismissal (mostly subconsciously)  towards, let’s say, conventional religions,
 
 as “backwards”, immoral, unscientific, superstitious, without really engaging with the ideas on a deep philosophical level (if you felt uneasy when I said “scripture-laden reasons” above, you probably fall in some spectrum of this categorisation).
 
@@ -91,7 +91,7 @@ And from the “traditional” side, the bias is not really dismissal, but reall
 Not dismissal, but sheer uninterest, for some reason, which is a very interesting sociological consideration and comparison to make.
 
 
-### Argument #1: You Can’t keep your cake, and eat it, both:
+### Argument #1: You Can’t Keep Your Cake, And Eat It, Both:
 So I want to start the first argument of showing that the problem of evil is Not indeed a problem, by first clarifying the nature of suffering, and then moving to the main argument.
 
 A lot of people assume when talking about suffering or when presenting the problem of evil, as if suffering is a monster that should be completely removed from the human condition,
@@ -162,7 +162,7 @@ I'm just trying to bring more perspectives/dimensions into suffering and how it 
 
 (I want you to put in mind, as a side note before moving on from this argument, that this argument becomes much stronger and even more complete, when we prove the existence of god from first principles, which we will definitely delve into soon in another essay).
 
-### Argument #2: No evil? <br>Then sorry, No Freewill…
+### Argument #2: No Evil? <br>Then Sorry, No Freewill…
 
 So we’ve dealt with the claim that deals with suffering as an absolute culprit, and we showed how it could be looked from multiple dimensions, rather than the uni-dimensional look which is that of the proponents of the problem.
 
@@ -191,7 +191,7 @@ Rocks don't have wars/evil doings because they don't have free will, and they al
 The absence of one side of the spectrum, entails the absence of the other side (good can't simply exist without evil, it's a logical necessity, if you truly think about it).
 
 
-### Possible Counter-argument to both my points:
+### Possible Counter-argument To Both My Points:
 “Oh”, 
 the proponent of the problem might come back and say, 
 “but your god is omniscient/omnipotent, 
@@ -203,9 +203,9 @@ which is what a lot of people really miss in most of their “logical” argumen
 
 <hr>
 <b>(( I hate using jargon that some people might not understand, so here are a few words I’ll use below, that might sound “fancy”:
-<br>
+<br><br>
 Anthropomorphism: is the attribution of human traits, emotions, or intentions to non-human entities (i.e. god in this context).
-
+<br><br>
 Omniscience: Is the capacity for complete/full knowledge. ))</b>
 <hr>
 
@@ -237,8 +237,7 @@ but illogical things are logically meaningless, like the squared circle (so as g
 So omnipotence is applied to meaningful logical instantiations, NOT everything imaginable by the fallible mind (take the example of people misunderstanding one example of omnipotence as an ability to taste logical ideas, or make a person be at two places at the same time, or see the taste of sweetness, those are meaningless expositions, as a lot of other things the human mind puts forward, which omnipotence doesn't apply to).
 
 
-### Third Theological brief side-argument:
-
+### Third Theological Brief Side-argument:
 Obviously, all of the above arguments are only from a logical & non-religious perspective.
 
 Theistic people, who established the existence of god, logically, could also use the argument that complete justice for the suffered, will be served in other contexts (for the abrahamic religions, the afterlife, for example).
@@ -247,9 +246,10 @@ So an additional eschatological assumption/argument could be used by theistic pe
 
 but I understand that a lot of people won’t really accept this argument in its entirety, but I thought It would be good to mention it as an additional point to take other perspectives.
 
+From another theoological perspective, we can also call out another theological fallacy, and say that the the problem of evil, at the heart of it, assumes that god is <b>only</b> benevolent, while neglecting other attributes like Wisdom, etc., but once we incorporate those other attributes, our arguments even shape themselves more clearly.
+
 
 ### Conclusion:
-
 So to recapitulate our discussion here, we could really establish that the problem of Evil as its put forward against the existence of God, sometimes, is really looked at from a one-dimensional point of view, and a superior, I know the best alternatives, position,
 
 But once we established our Multi-dimensional lens when thinking through the problem,

@@ -253,7 +253,7 @@ So to recapitulate our discussion here, we could really establish that the probl
 
 But once we established our Multi-dimensional lens when thinking through the problem,
 
-The realization of this multi-dimensional lens really removes the fog when trying to understand this problem, and with that dissolves the seriousness of this problem, indeed
+The realization of this multi-dimensional lens really removes the fog when trying to understand this problem, and with that dissolves the seriousness of this problem, indeed.
 
 <hr>
 <!-- Begin Mailchimp Signup Form -->

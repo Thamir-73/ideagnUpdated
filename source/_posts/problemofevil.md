@@ -202,7 +202,7 @@ So we can dissect this counter-argument by being self-conscious,
 which is what a lot of people really miss in most of their “logical” arguments.
 
 <hr>
-<b>(( I hate using jargon that some people might not understand, so here are a few words I’ll use below, that might sound “fancy”:
+<b>(( I really don't like using jargon that some people might not understand, so here are a few words I’ll use below, that might sound “fancy”:
 <br><br>
 Anthropomorphism: is the attribution of human traits, emotions, or intentions to non-human entities (i.e. god in this context).
 <br><br>

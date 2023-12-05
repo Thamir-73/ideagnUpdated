@@ -92,7 +92,7 @@ Not dismissal, but sheer uninterest, for some reason, which is a very interestin
 
 
 ### Argument #1: You Can’t Keep Your Cake, And Eat It, Both:
-So I want to start the first argument by first clarifying the nature of suffering, and then moving to the main argument.
+So I want to start the first argument by first clarifying the nature of suffering, briefly, and then moving on to the main argument.
 
 So a lot of people assume when talking about suffering or when presenting the problem of evil, as if suffering is a monster that should be completely removed from the human condition,
 
@@ -107,7 +107,7 @@ Now, this is really just a peripheral point to the argument.
 
 So having established that this proposition is valid,
 
-a problem of evil proponent could come and say: 
+a problem of evil proponent could now come and say: 
 
 “Okay, we know that some suffering might be good/necessary to flourish, but can you cut to the chase, and talk about the suffering that we find unfavorable or <b>unnecessary</b> for humans, like, how about the children that die?, or wars that happen in the world?, That’s the type of unnecessary suffering that makes me question god.”
 
@@ -131,7 +131,7 @@ is what gives rise to our endeavours to asymptotically “remove” those “unn
 
 whether it’s knowledge or scientific knowledge creation, which gives us an “ability” to even move forward, and, by extension, gives rise to consciousness itself, which wouldn’t have emerged, otherwise, or any other way.
 
-imagine if we thought: ohh this suffering is “completely necessary/favorable”, or if it wasn’t there all together, 
+Imagine if we thought: ohh this suffering is “completely necessary/favorable”, or if it wasn’t there all together, 
 
 then we wouldn’t have the enthusiasm to even fix it, because it’s either “necessary”, or it’s not there,
 
@@ -171,7 +171,7 @@ With that being established, we can now turn our gaze into the issue of “evil�
 which you can think of as a slightly other aspect of the discussion.
 
 So the proponent of the problem might come along again and ask: 
-“why is there evil’ people, who maybe from suffering or anything else, project certain experiences and kill others, for example, or project harm to others?
+“why is there 'evil’ people, who maybe from suffering or anything else, project certain experiences and kill others, for example, or project harm to others?
 This is also my issue with the existence of god.”
 
 So the appropriate way to think about this question is to argue from free will.
@@ -224,17 +224,16 @@ because our knowledge is finite, and god's knowledge since we assumed He is omni
 
 therefore, our hypothetical alternatives, assuming we established all of this, are by definition, not valid, since there's disproportionate knowledge between us and the omniscient being, otherwise one would fall into a logically slippery contradiction.
 
-Now I don’t want you to misunderstand my arguments and say that we can’t have discussions because I’ll keep reverting to “god knows best”,
+Now, I do want to say that I wouldn't have made this as a counterargument to the objection, had I haven't established any of my above argumetns, but I do think, in light of everything we said, this counterargument to the objection seems to fall into place, 
 
-but I established a framework that gives a logically satisfactory answer to the inquiry first, and then I made this point about omniscience, which one has to accept if looking for a logical approach towards the concept of omniscience.
-
+since we already tried to give satisfactory answers, first, instead of reverting to the onmiscience of God, as a first step (which is still valid logically, but some people might not find it satisfactory).
 
 
 Another response I would put forward is that, a lot of people assume that omnipotence is the ability to make happen anything imaginable, like a squared circle in the real world, as an extreme example, 
 
 but illogical things are logically meaningless, like the squared circle (so as good without evil).
 
-So omnipotence is applied to meaningful logical instantiations, NOT everything imaginable by the fallible mind (take the example of people misunderstanding one example of omnipotence as an ability to taste logical ideas, or make a person be at two places at the same time, or see the taste of sweetness, those are meaningless expositions, as a lot of other things the human mind puts forward, which omnipotence doesn't apply to).
+So omnipotence is applied to meaningful logical instantiations, NOT everything imaginable by the limited/fallible mind (take the example of people misunderstanding one example of omnipotence as an ability to taste logical ideas, or make a person be at two places at the same time, or see the taste of sweetness, those are meaningless expositions, as a lot of other things the human mind puts forward, which omnipotence doesn't apply to).
 
 
 ### Third Theological Brief Side-argument:
@@ -250,11 +249,11 @@ From another theoological perspective, we can also call out another theological 
 
 
 ### Conclusion:
-So to recapitulate our discussion here, we could really establish that the problem of Evil as its put forward against the existence of God, sometimes, is really looked at from a one-dimensional point of view, and a superior, I know the best alternatives, position,
+So to recapitulate our discussion here, we could really establish that the problem of Evil as its put forward against the existence of God, sometimes, is really looked at from a one-dimensional point of view, and a superior, "I know the best alternatives", position,
 
 But once we established our Multi-dimensional lens when thinking through the problem,
 
-The realization that this multi-dimensional lens really becomes clear, and dissolves the seriousness of this 
+The realization of this multi-dimensional lens really removes the fog when trying to understand this problem, and with that dissolves the seriousness of this problem, indeed
 
 <hr>
 <!-- Begin Mailchimp Signup Form -->

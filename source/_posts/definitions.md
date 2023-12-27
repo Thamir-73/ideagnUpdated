@@ -98,20 +98,11 @@ And that balance will even be more clear on how to be achieved, practically, whe
 
 So we talked about how the idea of a balance is pretty important in this context of us trying to question words/assumptions,
 
-And a practical way to find that balance is to really understand the different kinds of definitions, 
-
-which is really something I use as a framework, but not sure whether
-There is a distinction that I would like to put forward, which I haven’t really come across anywhere else.
-
-So, I came up with different distinctions when it comes to definitions, 
-
-that are useful to find that balance of questioning words, we talked about previously, and for other purposes as well.
+And one practical way to find that balance is to really understand the different kinds of definitions, 
 
 because if you don’t understand how definitions really work, 
 
 you might try to apply something to them that is not there.
-
-therefore, let’s try to talk about the different natures of definitions, because not all words have the same nature of definitions.
 
 #### Descriptive definitions: 
 

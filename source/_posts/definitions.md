@@ -3,12 +3,10 @@ title: The Power Of Definitions.
 date: 2023-12-27 
 categories: [Philosophy]
 index_img: img/bbrrttee.png
-excerpt: "Topic Stamps:
- Explore how You can reshape your thinking through this untapped aspect of definitions...
- ... "
+excerpt: "Explore how You can reshape your thinking through this untapped aspect of definitions..."
 ---
 
-If there was an appropriate imaginary word, to call my reflective approach towards words, it would be something in the lines of a ‘definologist’s’ approach.
+If there was an appropriate imaginary word, to call my execssive reflective approach towards words, it would be something in the lines of a ‘definologist’s’ approach.
 
 But you could pause & ask, why is it important to actually think about definitions, or at least stress in thinking about them, the way I do?
 
@@ -18,10 +16,10 @@ but another hidden layer to it is that words tend to contain a lot of implicit a
 
 And even though you might nod along and say, “yeah, I know this already”, but people often don’t act upon this too much.
 
-I’ll give you a very proximal example, that I see present in people’s consciousness subconsciously. 
+There is a very proximal example, that I see some people enact in, subconsciously. 
 
 
-You’ll see some people tell you, I don’t have beliefs, I only hold/have ideas, without having beliefs, 
+So some people tell you, I don’t have beliefs, I only hold/have ideas, without having beliefs, 
 
 but if you dig a bit deeper into what they mean by beliefs, and what the actual word means, you’ll see them the utmost proponents of a belief system (which is inescapable, anyways).
 
@@ -37,7 +35,7 @@ You know when you look for a pair of glasses everywhere, but it turns out it’s
 
 Same approach could be juxtaposed to words, we sometimes think the disagreement lies somewhere else, but it actually turns out, a lot of the times, in the meanings of the words themselves.
 
-One other great thing about contemplating on definitions, is that, it will branch your thought process into more well-structured questions.
+One other great thing about contemplating definitions, is that, it will branch your thought process into more well-structured questions.
 
 And really the quality of your questions, will determine how far you reach when it comes to understanding something.
 
@@ -184,7 +182,7 @@ There is a great tip we can end with, that can assist us with a branch of words 
 
 This tip mostly works with words/concepts that are super broad, like: civilization, reality, or technology.
 
-So since those concepts are super broad, one can practically start by defining what they are <b>not,/b>,first, rather than what they are.
+So since those concepts are super broad, one can practically start by defining what they are <b>not</b>,first, rather than what they are.
 
 and the reason why this tip is important is because a lot of the times, starting from the default of defining such terms is like catching a ghost,
 

@@ -1,6 +1,6 @@
 ---
 title: The Power Of Definitions.
-date: 2023-12-27 
+date: 2023-12-28 
 categories: [Philosophy]
 index_img: img/bbrrttee.png
 excerpt: "Explore how You can reshape your thinking through this untapped aspect of definitions..."

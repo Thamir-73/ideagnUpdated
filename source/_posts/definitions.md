@@ -10,7 +10,7 @@ If there was an appropriate imaginary word, to call my execssive reflective appr
 
 But you could pause & ask, why is it important to actually think about definitions, or at least stress in thinking about them, the way I do?
 
-Well, there is the intuitive answer that, the more you understand words the better the understanding you have over your arguments,
+Well, there is the intuitive answer that, the more you understand words the better the understanding you have over your arguments/ideas,
 
 but another hidden layer to it is that words tend to contain a lot of implicit assumptions within them.
 
@@ -19,27 +19,27 @@ And even though you might nod along and say, “yeah, I know this already”, bu
 There is a very proximal example, that I see some people enact in, subconsciously. 
 
 
-So some people tell you, I don’t have beliefs, I only hold/have ideas, without having beliefs, 
+So some people will tell you: "I don’t have any 'beliefs', I only hold/have ideas, without having beliefs",
 
 but if you dig a bit deeper into what they mean by beliefs, and what the actual word means, you’ll see them the utmost proponents of a belief system (which is inescapable, anyways).
 
 
-Also, a lot of people swim in the ocean of semantics when arguing, where they’re arguing about something, but they’re using different wordings, to mean the same thing, so they ostensibly think they disagree, when they in fact, don’t,
+Also, a lot of people swim in the ocean of semantics when arguing, where they’re arguing about something, but they’re using different wordings, to mean the same thing, so they ostensibly think they disagree, when they, in fact, don’t,
 
-Which goes to say that definitions are actually the layer we a lot of the times miss in misunderstandings.
+which goes to say that definitions are actually the layer we a lot of the times miss in misunderstandings.
 
-Because, often, definitions are so intuitive to us at the first instance, that we miss that the point of disagreement/ fault might actually lie in the words.
+Because, often, definitions are so intuitive to us at the first instance, that we miss that the point of disagreement/fault might actually lie in the words.
 
 
 You know when you look for a pair of glasses everywhere, but it turns out it’s on the top of your head, or in your hand?
 
-Same approach could be juxtaposed to words, we sometimes think the disagreement lies somewhere else, but it actually turns out, a lot of the times, in the meanings of the words themselves.
+The same approach could be juxtaposed to words. We sometimes think the disagreement lies somewhere else, but it actually turns out, a lot of the times, to be in the meanings of the words themselves.
 
-One other great thing about contemplating definitions, is that, it will branch your thought process into more well-structured questions.
+One other great thing about contemplating definitions, is that it will branch your thought process into more well-structured questions.
 
 And really the quality of your questions, will determine how far you reach when it comes to understanding something.
 
-And equally important to questions is that this approach also comes back to you when you need some clear answer to a confusing question, as well.
+And equally important to questions, is that this approach also comes back to you when you need some clear answers to a confusing question, as well.
 
 
 
@@ -76,9 +76,9 @@ can also serve the purpose of unpacking the symbols & noise from words, and is o
 
 ### Taking It To The Extreme:
 
-So in order to make sure all of us get the best possible message out of this, I want to clarify some things I’m not saying.
+So in order to make sure all of us get the best possible message out of this, I want to clarify some things I’m <b>not</b> saying.
 
-I’m not purporting a meticulous approach & turning every discussion into a definitions one, 
+I’m not purporting a meticulous approach of turning every discussion into a definitions one, 
 
 because there is something very similar to the law of diminishing returns, when it comes to words & definitions.
 
@@ -87,7 +87,7 @@ Meaning that, you pass a certain threshold, where, if you keep questioning the w
 and you’ll make every discussion/thought unintelligible, and uninteresting, and also will dig a hole that you can’t get out of.
 
 
-Which goes to say that we should consciously account for the possibility that misunderstandings and faulty thinking might lie in the definition of a word, without over-inflating that chance.
+Which goes to say that we should consciously account for the possibility that misunderstandings and faulty thinking might lie in the definition of a word, <b>without over-inflating that chance</b>.
 
 
 Therefore, what I’m trying to say here is that one should embark in finding a balance, rather than subconsciously push things to both the extremes, if that makes sense.
@@ -96,19 +96,19 @@ And that balance will even be more clear on how to be achieved, practically, whe
 
 ### Kinds of Definitions:
 
-So we talked about how the idea of a balance is pretty important in this context of us trying to question words/assumptions,
-
-And one practical way to find that balance is to really understand the different kinds of definitions, 
+One practical way to find that balance we talked about earlier, is to really understand the different kinds of definitions and their reach, 
 
 because if you don’t understand how definitions really work, 
 
 you might try to apply something to them that is not there.
 
+So I compiled a categorization that is very helpful to conceptualize definitions, since it can help one know the limits, or more precisely, the reach of a specific definition, and to not try to get something out of it, when it's not there, and end up getting more confused.
+
 #### Descriptive definitions: 
 
 Those are the type of definitions that don’t really have an explanation, but are only descriptive, because we either:
 
-1) don’t really know how, or don’t need to explain them, because they’re universal.
+1) don’t really know how, or don’t need to explain them, because they’re universal concepts.
 2) It’s more practical to describe them, than to explain them.
 
 Examples include things like:
@@ -127,7 +127,7 @@ computers or cars, where it has to be a relative explanation, otherwise, the des
 
 (imagine defining a computer as: light that shows data, that “description” wouldn’t make sense, 
 
-so you need to minimally explain it, and say that it’s a type of machine that works to transmit data through programs…, in order to make sense of a definition).
+so you need to, at least, minimally explain it, and say that it’s a type of machine that works to transmit data through programs…, in order to make sense of a definition).
 
 
 #### Operational definitions: 
@@ -149,7 +149,7 @@ but everyone understands that we are no where near depicting all important aspec
 
 Putting this one here is kind of inaccurate, 
 
-because those are the words that don’t really require any definitions, because of how very intuitive they’re to us.
+because those are the words that don’t really require any definitions, because of how extremely intuitive they’re to us.
 
 Examples include: “do”, or “mine”, or “like”.
 
@@ -175,9 +175,9 @@ This tip mostly works with words/concepts that are super broad, like: civilizati
 
 So since those concepts are super broad, one can practically start by defining what they are <b>not</b>,first, rather than what they are.
 
-and the reason why this tip is important is because a lot of the times, starting from the default of defining such terms is like catching a ghost,
+and the reason why this tip is important is because a lot of the times, starting from the default of defining such terms, is like catching a ghost,
 
-so starting by negation, or defining what they are not might give a lot more insights, and lead to more progress on those words/concepts.
+so starting by negation, or defining what they are not, might give a lot more insights, and lead to more progress on those words/concepts.
 
 ### Conclusion:
 If we Recollect our discussion today, with all of its nuances to not push our approach to its extremes,

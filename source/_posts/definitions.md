@@ -71,7 +71,7 @@ or people thinking that calling it that, could be used as a strong counter-argum
 
 So from that perspective, applying our approach of looking into definitions,
 
-can also serve the purpose of unpacking the symbols & noise from words, and is of the utmost importance to critically maneuver through idea & discussions.
+can also serve the purpose of unpacking the symbols & noise from words, and is of the utmost importance to critically maneuver through ideas & discussions.
 
 
 ### Taking It To The Extreme:

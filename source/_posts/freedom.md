@@ -1,6 +1,6 @@
 ---
 title: The 'Unfree' Freedom
-date: 2023-02-06 
+date: 2024-02-06 
 categories: [Philosophy]
 index_img: img/ttyrr.jpeg
 excerpt: "An Analysis on Why the mainstream conceptions of freedom are fundamentally mistaken... "

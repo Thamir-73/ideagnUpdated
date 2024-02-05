@@ -1,5 +1,5 @@
 ---
-title: The 'Unfree' Freedom
+title: The 'Shackles' of Freedom
 date: 2024-02-06 
 categories: [Philosophy]
 index_img: img/ttyrr.jpeg

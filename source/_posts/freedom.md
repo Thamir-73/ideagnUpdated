@@ -1,5 +1,5 @@
 ---
-title: The 'Shackles' of Freedom
+title: Freedom As We Don't Know It
 date: 2024-02-06 
 categories: [Philosophy]
 index_img: img/ttyrr.jpeg

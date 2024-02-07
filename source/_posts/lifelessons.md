@@ -1,5 +1,5 @@
 ---
-title: life lessons and Observations
+title: Life Lessons & Observations
 date: 2024-02-07 
 categories: [Mini-blog]
 index_img: img/free.webp

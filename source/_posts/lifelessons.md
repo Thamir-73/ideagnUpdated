@@ -13,7 +13,7 @@ but this one, on the other hand, is going to be an attempt to share some concise
 The exclusive benefit of quotes & short aphorisms lie in the fact that we don't have the time to lose some grip of our attention or forget the wisdom as we are reading through them, because they're so concise, direct, & condensed, unlike longer passages of wisdom & stories, which also have their own benefits, of course.
 
 <hr>
-- The true adventure of life starts when you understand the gap between yourself & best self is infinite.
+* The true adventure of life starts when you understand the gap between yourself & best self is infinite.
 <hr>
 - Humility is the willingness to destroy parts of yourself. Honesty is the hammer you strike those parts with.
 <hr>

@@ -7,13 +7,13 @@ excerpt: "Some quotes and concise life lessons I've written down.. "
 ---
 
 This blog has no shortage of records of long detailed routes to wisdom,
-<br>
+
 but this one, on the other hand, is going to be an attempt to share some concise & succinct "wisdoms" I've jotted down in my notes.
 <br>
 The exclusive benefit of quotes & short aphorisms lie in the fact that we don't have the time to lose some grip of our attention or forget the wisdom as we are reading through them, 
-<br>
-because they're so concise, direct, & condensed, unlike longer passages of wisdom & stories, which also have their own benefits, of course.
 
+because they're so concise, direct, & condensed, unlike longer passages of wisdom & stories, which also have their own benefits, of course.
+<br>
 <hr>
 - The true adventure of life starts when you understand the gap between yourself & best self is infinite.
 <hr>

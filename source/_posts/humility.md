@@ -44,7 +44,7 @@ which will keep you in a suboptimal state & limits your optionality forever,
 
 without ever finding out what the real world, has to say about that,
 
-or even what you could be capable of had you actually tired that specific thing.
+or even what you could be capable of had you actually tried that specific thing.
 
 The psychology behind this is because humility is actually a great disguise for fear.
 

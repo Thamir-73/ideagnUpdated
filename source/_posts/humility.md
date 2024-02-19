@@ -40,7 +40,7 @@ However, if you’re overly “humble” about any endevour you’re embarking o
 
 then you might never try certain things out of that “humility”, 
 
-which will keep you in a suboptimal state & limits your optionality forever, 
+which will keep you in a suboptimal state & limit your optionality forever, 
 
 without ever finding out what the real world, has to say about that,
 

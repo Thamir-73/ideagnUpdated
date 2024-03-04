@@ -70,7 +70,7 @@ and requires, by definition, for reasons we aforementioned, to have more effort 
 given the conditions of humans in this context.
 
 
-### An Analogy Of Detection Not importance:
+### An Analogy Of Detection <b>Not</b> importance:
 
 It’s good to emphasize the point that the broccoli/ice-cream distinction, 
 
@@ -111,7 +111,6 @@ actually gives a very much needed layer of complexity,
 
 which might put more things into perspective.
 <hr>
-<br>
 Credits to the great psychologist, Keith Stanovich, for planting the seeds for this article...
 <br>
 <hr>

@@ -3,8 +3,7 @@ title: The Detectability of Ideas
 date: 2024-03-04 
 categories: [Mini-blog]
 index_img: img/magnify.png
-excerpt: "Reshaping thought on what things need to be emphasized in life,
-Is it only the "importance" of something, that gives it the obligation to be emphasised on, or are there other factors into play?.. "
+excerpt: "Reshaping thought on what things need to be emphasized in life..."
 ---
 
 Have you ever thought why we only need to remind kids to eat vegetables/broccolis, 
@@ -71,7 +70,7 @@ and requires, by definition, for reasons we aforementioned, to have more effort 
 given the conditions of humans in this context.
 
 
-### An Analogy Of Detection <b>Not</b> importance:
+### An Analogy Of Detection Not importance:
 
 It’s good to emphasize the point that the broccoli/ice-cream distinction, 
 

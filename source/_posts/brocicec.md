@@ -1,5 +1,5 @@
 ---
-title: Detecting Detectability of Ideas
+title: The Detectability of Ideas
 date: 2024-03-04 
 categories: [Mini-blog]
 index_img: img/magnify.png

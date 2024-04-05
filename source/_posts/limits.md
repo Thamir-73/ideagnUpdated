@@ -91,7 +91,11 @@ So in some sense, religion mainly makes the limits explicit, and anything inside
 
 Despite the post-enlightnment misconceptions, which still exist today abundantly, that “religion is fundamentally backwards” or has anti-novel approaches, 
 
-even though, the scenes of the middle ages were showing anti-novel sentiments, the case can’t be made that it’s embedded in the religion itself, in this case for christianity.
+even though, some scenes in history might’ve showed such behavior, especially with christianity,
+
+but looking only at the historical context,
+
+without an analysis of the doctrines is never really a complete assessment of the situation.
 
 Obviously, this case can’t be made for Islam or Judaism, since many of the seeds of the enlightenment and it’s methodologies, were planted by some 10th, 11th & 12th century Muslim scholars.
 
@@ -128,8 +132,7 @@ So a person who claims to have no intellectual fences/limits, will definitely st
 
 and that will be the limit with which they conduct themselves,
 
-and they’ll not tap into that territory that causes anguish, <b>without any returns
-</b>.
+and they’ll not tap into that territory that causes anguish, <b>without any returns</b>.
 
 On top of that, limits/fences are what defines morals.
 
@@ -152,7 +155,6 @@ The approach to limits and fences should essentially be a complex integration be
 And that can’t be done without acknowledging that the modern human with all his resources & “knowledge” of the world, 
 
 can actually be more wrong than a thousand years old heuristic.
-
 <hr>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">

@@ -111,6 +111,7 @@ actually gives a very much needed layer of complexity,
 
 which might put more things into perspective.
 <hr>
+<br>
 Credits to the great psychologist, Keith Stanovich, for planting the seeds for this article...
 <br>
 <hr>

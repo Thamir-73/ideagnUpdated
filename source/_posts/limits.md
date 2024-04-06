@@ -114,7 +114,7 @@ you have to limit yourself from doing many other things, that won’t make you r
 
 and that’s a “limit” that will eventually be the thing that actually elevates you to the “novel” goal.
 
-Why limits are necessary & important:
+### Why limits are necessary & important:
 
 You might take the previous question even a step further and say, do we actually need a fence/limit in the form of a “religion” or otherwise, in the first place?
 

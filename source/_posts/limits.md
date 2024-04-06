@@ -141,11 +141,13 @@ The fence we are talking about is actually what we know as morality, from one an
 So any idea that claims humans shouldn’t “have limits” is basically arguing for an ever subjective moral status, which eventually doesn’t lead to good outcomes.
 
 So the fundamental question for the human race, if their thoughts are aligned properly, 
+
 is not whether to have a limit, it’s, what limit should one espouse or derive.
 
 ### Conclusion:
 
 As we started with Will Durant, we can also conclude it with some of his wise words:
+
 “As The sanity of individual lies in the continuity of his memories , a sanity of society lies in the continuity of its tradition.”
 
 Just like our happiness is made up of both new experiences, and memories we had,

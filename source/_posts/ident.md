@@ -107,7 +107,6 @@ You can finally think of this first part,
 as establishing and exploring the X-axis of identity, and where to situate oneself in that axis/spectrum,
 
 so let’s call this axis, the fluid-rigid axis:
-
 <img src="/img/xaxis.jpg”>
 
 Now in the next exploration/section we’ll establish the Y-axis of identity, and recapitulate it with its sibling, the rigid-fluid axis, discussed above.
@@ -175,7 +174,6 @@ in the sense that a fundamental nature of its definition is that it’s not givi
 but it’s also not taking too much, and this in a deep way applies to identity, and how it should be approached & balanced.
 
 Now how would this constitute our Y-axis?We can think of this domain or section as constituting the Internal-external axis (Y-axis):
-
 <img src="/img/yaxis.jpg” >
 
 
@@ -185,7 +183,6 @@ Now how would this constitute our Y-axis?We can think of this domain or section 
 So now that we have laid the X & the Y axis separately,
 
 I think it’s useful to see a graph example on different variations, in our new completed graph of identity:
-
 <img src="/img/xyaxis.jpg” >
 
 

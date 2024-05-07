@@ -10,7 +10,7 @@ Okay, so Let’s back-track to the most fundamental layers of language, so langu
 
 
 <b>If I had to write this blog post with one description, it would be Activation of bear mode in this image:</b>
-<img src="/img/img1.JPG" >
+![](img/img1.JPG)
 
 
 It might seem from the previous example that I am stressing on the questioning of meanings when they’re received or given from/to the outside world (i.e. conversations), but the core idea here is to really question the fabric of your thoughts through words even when you're just talking to yourself or introspecting. On the other hand, it’s pretty easy to overlearn this in some sense, I mean it would be impractical to consciously question a word like “food” in every context we are trying to use it in or hear it, for example. At the end of the day we are limited by bounded rationality in some contexts, which is just how we operate through ideas with limited time, information, and cognitive load at the time of processing things. Going down a hole trying to define every word used/heard/read can get counter-productive real quick in some contexts, but what can be a healthy approach is when you find yourself confused or semi-confused about some conclusion or just trying to understand an idea/ideas, trying not to go too far with assumptions you’re building on (i.e. questioning words being used) might be a good idea. And this might seem trivial because how can a word be used without knowing its meaning? Well, you’ll be surprised how much the mind conflicts some things if not consciously thought through. + I can see it being easier to question what words are next to each other, rather than question the word’s meaning itself. 

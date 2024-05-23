@@ -93,7 +93,6 @@ The outcome where you have to painfully swallow your pride, is the best outcome,
 <hr>
 
 * The collapse of the sacred into the profane, collapsed the moral into the temperamental.
-
 <hr>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">

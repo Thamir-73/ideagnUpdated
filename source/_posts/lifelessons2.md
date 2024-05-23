@@ -21,13 +21,28 @@ while observations could be interpreted by the person reading in many different 
 * It’s better to start to fail, than fail to start.
 <hr>
 
-* Thamir’s razor:The outcome where you have to painfully swallow your pride, is the best outcome, and the least outcome you’ll regret.
+* Thamir’s razor: 
+The outcome where you have to painfully swallow your pride, is the best outcome, and the least outcome you’ll regret.
 <hr>
 
-* Just as following the status-quo position, *automatically*, is incorrect, going against the status quo position *automatically* is also incorrect.Status quo-ers have a false negative vision, and they think there’s no intellectual nail they can strike on their own.anti-status quo-ers have a false positive vision, and they think they can strike every intellectual nail on their own,Both of them are incorrect.Navigate those things logically & professionally and think outside of those pressures, sometimes the group/“herd” is more correct than you’d ever be, & many other times it isn’t.
+* Just as following the status-quo position, <b>automatically</b>, is incorrect, 
+
+    going against the status quo position <b>automatically</b> is also incorrect.
+
+    Status quo-ers have a false negative vision, and they think there’s no intellectual nail they can strike on their own.
+
+    Anti-status quo-ers have a false positive vision, and they think they can strike every intellectual nail on their own,
+
+    Both of them are incorrect.
+
+    Navigate those things logically & professionally and think outside of those pressures,
+
+    sometimes the group/“herd” is more correct than you’d ever be, & many other times it isn’t.
 <hr>
 
-* Emphasis on already known things, is sometimes more important than new information, per se.Never underestimate or devalue the importance of people “repeating” things that “everybody” knows,knowing & emphasising are two different things.
+* Emphasis on already known things, is sometimes more important than new information, per se.
+
+Never underestimate or devalue the importance of people “repeating” things that “everybody” knows,knowing & emphasising are two different things.
 <hr>
 
 * The biggest mystery about expression is that when you’re explaining something to someone else, you’re also explaining it to yourself, as much as you’re explaining it to the other person. 

@@ -12,12 +12,12 @@ I love to do it this way because it challenges me to put my thoughts in a relati
 <br><br>
 
 I want to reflect a bit on why I used “lessons” & “observations”, in this piece.
-<br>
+
 I think grouping “rules/lessons” & “observations” together is a great mix, because rules are things that can be interpreted in a limited way, because it’s a blunt way or advice to myself and the reader to really engage in something specific,
 
 while observations could be interpreted by the person reading in many different ways, and I love this discrepancy between the two and I think it could be complimentary in many interesting ways:
 <br>
-<hr>
+
 * It’s better to start to fail, than fail to start.
 <hr>
 

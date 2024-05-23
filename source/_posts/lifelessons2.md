@@ -17,7 +17,6 @@ I think grouping “rules/lessons” & “observations” together is a great mi
 
 while observations could be interpreted by the person reading in many different ways, and I love this discrepancy between the two and I think it could be complimentary in many interesting ways:
 <br>
-<hr>
 
 * It’s better to start to fail, than fail to start.
 <hr>
@@ -48,7 +47,7 @@ The outcome where you have to painfully swallow your pride, is the best outcome,
 
 * The biggest mystery about expression is that when you’re explaining something to someone else, 
     
-    you’re also explaining it to yourself, as much as you’re explaining it to the other person. 
+    you’re also explaining it to yourself, as much as you’re explaining it to the other person.
 <hr>
 
 * Before you ask a question, reflect if you’re actually asking it to genuinely hear an answer, or for other petty ego-related human reasons, 

@@ -54,7 +54,7 @@ the “ice-cream” of an individualistic thought process is emphasised, in the 
 
 or
 
-“as long as you’re happy, that’s what’s matter.”
+“as long as you’re happy, that’s what matters.”
 
 But that only amplifies the already omni-detectable ice-cream, which needs less emphasis,
 

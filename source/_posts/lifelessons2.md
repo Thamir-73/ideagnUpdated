@@ -17,6 +17,7 @@ I think grouping “rules/lessons” & “observations” together is a great mi
 
 while observations could be interpreted by the person reading in many different ways, and I love this discrepancy between the two and I think it could be complimentary in many interesting ways:
 <br>
+<hr>
 
 * It’s better to start to fail, than fail to start.
 <hr>
@@ -27,7 +28,7 @@ The outcome where you have to painfully swallow your pride, is the best outcome,
 
 * Just as following the status-quo position, <b>automatically</b>, is incorrect, 
 
-    going against the status quo position <b>automatically</b> is also incorrect.
+    going against the status quo position, <b>automatically</b>, is also incorrect.
 
     Status quo-ers have a false negative vision, and they think there’s no intellectual nail they can strike on their own.
 
@@ -42,22 +43,30 @@ The outcome where you have to painfully swallow your pride, is the best outcome,
 
 * Emphasis on already known things, is sometimes more important than new information, per se.
 
-Never underestimate or devalue the importance of people “repeating” things that “everybody” knows,knowing & emphasising are two different things.
+    Never underestimate or devalue the importance of people “repeating” things that “everybody” knows,knowing & emphasising are two different things.
 <hr>
 
-* The biggest mystery about expression is that when you’re explaining something to someone else, you’re also explaining it to yourself, as much as you’re explaining it to the other person. 
+* The biggest mystery about expression is that when you’re explaining something to someone else, 
+    
+    you’re also explaining it to yourself, as much as you’re explaining it to the other person. 
 <hr>
 
-* Before you ask a question, reflect if you’re actually asking it to genuinely hear an answer, or for other petty ego-related human reasons, I promise you, it happens more often than you think.
+* Before you ask a question, reflect if you’re actually asking it to genuinely hear an answer, or for other petty ego-related human reasons, 
+    
+    I promise you, it happens more often than you think.
 <hr>
 
 * The only mistake that’s not worth making is quitting.
 <hr>
 
-* Arrogance is a sneaky vice that could coexist contextually with many good attributes. Never stop consciously hunting for it in your own heart.Someone can be intelligent, knowledgable, kind, & generous, but still has pride, arrogance & ego ingrained in their psyche.
+* Arrogance is a sneaky vice that could coexist contextually with many good attributes. Never stop consciously hunting for it in your own heart.
+
+    Someone can be intelligent, knowledgable, kind, & generous, but still has pride, arrogance & ego ingrained in their psyche.
 <hr>
 
-* Don’t fall for the subconscious trap of thinking the amount of work & effort you put in a project should give you the entitlement for people’s attention. That way, you’ll lose the other valuable things/lessons you can extract other than attention,& you’ll also most likely quit prematurely on almost everything.
+* Don’t fall for the subconscious trap of thinking the amount of work & effort you put in a project should give you the entitlement for people’s attention. 
+
+    That way, you’ll lose the other valuable things/lessons you can extract other than attention,& you’ll also most likely quit prematurely on almost everything.
 <hr>
 
 * Everytime you’re frustrated from a mistake you made in the present, think about how much of a miracle it’s that you can infinitely improve into the future.

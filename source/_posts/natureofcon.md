@@ -3,14 +3,14 @@ title: Limits That Unlimit...
 date: 2024-08-01
 categories: [Philosophy]
 index_img: img/2hemi.jpg
-excerpt: "On the Nature of Reality: exploration on how limits paradoxically make up most unbounded progress in all domains."
+excerpt: "On the Nature of Reality: An exploration on how limits paradoxically make up most unbounded progress in all domains."
 ---
 
 I’ve been thinking about the nature of logic، reality، our cognition, and how the world works.
 
 (Yeah I know this too much to put in 1 blog post, but hear me out…),
 
-Especially in light of reading iain mcgillchrist’s book, The Master and His Emmisiary, which is a book that explores the fundamental, and almost irreconcilable differences between the left & right hemispheres of human brains, even though they exist within the same entity/human (will elaborate later)…
+Especially in light of reading iain mcgillchrist’s book, The Master and His Emmisiary, which is a book that explores the fundamental, and almost <b>irreconcilable</b> differences between the left & right hemispheres of human brains, even though they exist within the same entity/human (will elaborate later)…
 
 And that book is definitely one that kind of revolutionized parts of my thinking.
 
@@ -56,7 +56,7 @@ for the “uniqueness” to manifest itself.
 and it’s very interesting to think about this seemingly possible contradiction, which seems irreconcilable, 
 
 but manifests itself all the time, 
-whether one is aware of it or not. 
+<b>whether one is aware of it or not. </b>
 
 ### The brain and the thin line it walks:
 
@@ -101,28 +101,28 @@ is a very striking example of our exploration, and how tension is required for .
 If we think about it,
 
 Civilization, at the most fundamental level, 
-is the process of gradually making the future less fatally unpredictable,
+is the process of gradually making the future <b>less</b> fatally unpredictable,
 
-since all we want as humans is something like the ability to invest our time, energy, & relationships into the future 
+since all we want as humans is something like the <b>ability</b> to invest our time, energy, & relationships into the future 
 (and implicitly the present, of course), 
 
-with more collective predictability of not getting killed by a tiger, 
+with more <b>collective</b> predictability of not getting killed by a tiger, 
 or not getting in a fatal conflict with another human/state,
 
 (which is really what civilizations are trying to aim towards, most fundamentally, with differences on how to implement that).
 
 But also, if you think about it (which is where the paradox lies),
 
-Civilization is the process of making the future more creatively & excitingly unpredictable, more or less, by definition.
+Civilization is the process of making the future <b>more</b> creatively & excitingly <b>unpredictable</b>, more or less, by definition.
 
-Because how else would we avoid the so called, “tigers”, without the creative, fundamentally unpredictable, nature of the applications of human ideas?
+Because how else would we avoid the so called, “tigers”, without the creative, <b>fundamentally unpredictable</b>, nature of the applications of human ideas?
 
 So how do we reconcile the fact that we want the future to be predictable enough to avoid things that get us killed, or even more broadly, avoid things that move us away from the ability to invest in the future,
 
 but for the future to be that way (i.e. predictable enough), 
 in a sense, 
 
-we need it to be unpredictable enough to bring up new creative applications & ideas that elevate us.
+we need it to be <b>unpredictable</b> enough to bring up new creative applications & ideas that elevate us.
 
 You could say those domains of predictability are different, 
 but they’re really not.
@@ -167,7 +167,7 @@ There might be an important & practical meta point we can extract from all of th
 
 As we saw in our examples of the brain and the rest of the examples,
 
-endless flourishing requires constraints: 
+#### <b>endless</b> flourishing requires <b>constraints</b>: 
 This is a paradigm shifting worldview for so many reasons.
 
 and one of those practical reasons is because the focus will now not be: 

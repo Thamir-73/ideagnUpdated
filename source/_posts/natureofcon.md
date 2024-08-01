@@ -5,6 +5,7 @@ categories: [Philosophy]
 index_img: img/2hemi.jpg
 excerpt: "On the Nature of Reality: exploration on how limits paradoxically make up most unbounded progress in all domains."
 ---
+
 I’ve been thinking about the nature of logic، reality، our cognition, and how the world works.
 
 (Yeah I know this too much to put in 1 blog post, but hear me out…),

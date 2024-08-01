@@ -94,7 +94,7 @@ because the brain actually walks an infinitely thin line, that no other structur
 
 and so this paradoxical conflict of function, you could say, or to be more specific, in the “howness”, or the way the two hemispheres see the world differently, so to speak, 
 
-is a very striking example of our exploration, and how tension is required for .
+is a very striking example of our exploration, and how tension is required for the emergence and even the progress of many things in life.
 
 ### Civilization & Predictability:
 
